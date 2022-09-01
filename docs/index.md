@@ -1,5 +1,5 @@
 
-[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM - TSI-NSI_2022-2023"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "TEAM-TG_VDC_AP-EM-20212022@ecmorlaix.fr"){: align=right width=10%}](mailto:TEAM-TG_VDC_AP-EM-20212022@ecmorlaix.fr){target=_blank}Ce site s'adresse à un groupe d'élèves de terminale générale du lycée Notre Dame du Mur pour la vie de classe et l'orientation.
+[![PJ](images/undraw_Team_re_0bfe.svg "# TEAM - TSI-NSI_2022-2023"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "@ecmorlaix.fr"){: align=right width=10%}](mailto:@ecmorlaix.fr){target=_blank}Ce site s'adresse au groupe d'élèves de terminale SI et NSI du lycée Notre Dame du Mur de MORLAIX pour la vie de classe, l'orientation et les projets...
 
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 
@@ -56,7 +56,8 @@
     - Période de bacs blancs : semaine B8 - A9 ;
     - Fin du 1er trimestre : le 25/11 ;  
     - Conseils de classe du 1er trimestre : semaine du 30/11 ;
-
+    
+- [ ] Fiche de renseignements pour l'orientation...
 <!-- 
 LISTE DES DOCUMENTS A PREVOIR
 
