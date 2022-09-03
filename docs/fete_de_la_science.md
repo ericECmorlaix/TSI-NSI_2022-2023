@@ -6,10 +6,11 @@ En tant qu'élèves de terminale SI et NSI vous participerez également à cet �
 Nous accueillerions des élèves de cycle 3 et collège des établissements morlaisiens.
 
 Nous avons déjà évoqué les ateliers suivants :
-- Atelier programmation avec du scratch cycle 4 
-- Atelier construction avec lego technique cycle 3
-- Atelier robotique
-- Animations scientifiques à définir menées par les 2des bac pro animation à destination du cycle 3
+
+- Atelier programmation avec du scratch cycle 4 ;
+- Atelier construction avec lego technique cycle 3 ;
+- Atelier robotique ;
+- Animations scientifiques à définir menées par les 2des bac pro animation à destination du cycle 3 ;
 - Autres ateliers scientifiques...
 
-Votre première mission de projet sera donc de construire une médiation scientifique s'appuyant sur les sujets de vos projets respectifs et répondant aux besoins de ateliers évoqués...
+==Votre première mission de projet sera donc de construire une médiation scientifique s'appuyant sur les sujets de vos projets respectifs et répondant aux besoins de ateliers évoqués...==

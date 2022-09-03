@@ -75,4 +75,6 @@ LISTE DES DOCUMENTS A PREVOIR
 •	[x] Carnets de correspondance et règlement intérieur à récupérer en Perm1
 •	[ ] Charte du conducteur à l'accueil -->
 
+***
+
 - [ ] Projets, objectif ["Fête de la science"](./fete_de_la_science) début octobre... -> ==**Initier** un dépot pour [votre projet sur GitHub](./github)==
