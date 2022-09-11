@@ -78,3 +78,8 @@ LISTE DES DOCUMENTS A PREVOIR
 ***
 
 - [ ] Projets, objectif ["Fête de la science"](./fete_de_la_science) début octobre... -> ==**Initier** un dépot pour [votre projet sur GitHub](./github)==
+
+
+Les 09 et 12/09
+
+- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==En appliquant une [démarche agile](./fete_de_la_science/#demarche), **Initier** une TODO liste et se répartir les tâches==
