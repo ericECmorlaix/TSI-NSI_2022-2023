@@ -16,6 +16,9 @@ Nous avons déjà évoqué les ateliers suivants :
 ==Votre première mission de projet (sprint) sera donc de construire une médiation scientifique s'appuyant sur les sujets de vos projets respectifs et répondant aux besoins de ateliers évoqués...==
 
 
+[Cliquer ici pour voir toute la programmation de la Fête de la science à Morlaix du 10 au 12 octobre 2022](./pdf/fds_programmation_2022_web_0.pdf){target=_blank .md-button }
+
+
 ## Démarche :
 
 Vous travaillerez en mode agile le professeur jouant le role de [Product Owner](https://www.orientation.com/metiers/product-owner).
