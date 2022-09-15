@@ -4,36 +4,18 @@
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 
 ***
+## Le 15/09 (1h)
 
-## Le 02/09
+- Vie de Classe : questions diverses...
+- Début du travail sur l'[orientation](./orientation)
+- ...
 
-- Accueil
-- [ ] Présentation du professeur principal-référent
-- Rappels
-    -	[ ] Self
-       -	Pas de vérification des régimes pour l’instant
-       -	Explications : EXT, DP4 (pas le mercredi), DP5, INT, BOX. Changement possible au + vite (fin semaine B2). Rappel : engagement pris pour toute l’année.
-       -	Distribution cartes de self + consignes.
-      > Remarques : Possibilité de déjeuner au self ou à la cafétéria. Inscription possible pour les externes avant 9h à l’entrée de la Perm0.
-    - [ ] Distribution et présentation du carnet de correspondance à compléter et à conserver sur soi toute l’année.
-    - [ ] [Lecture du règlement intérieur](https://www.ecmorlaix.fr/uploads/2018/09/reglement-interieur-rentree-2022-lycee.pdf){target=_blank}
-    > La zone fumeurs n’est accessible qu'aux récréations.  
-    > Ce document est accessible, comme d'autres, depuis la page [informations-pratiques du site du lycée](https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/informations-pratiques/){target=_blank}
+***
+## Les 09 et 12/09 (2h + 1h)
 
-    - [ ] Présentation des ressources informatiques : ENT, Drive, Ecole Directe
-    > Précision sur Ecole Directe ou panneau d’affichage pour les modifications d’EDT. Nécessité de consulter panneau d’affichage quotidiennement.  
-    > Identifiant école directe : les élèves utilisent leur propre identifiant et pas le compte “famille”.  
-    > Certificat de scolarité accessible sur Ecole Directe.
+- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==En appliquant une [démarche agile](./fete_de_la_science/#demarche), **Initier** une TODO liste et se répartir les tâches==
 
-    - [ ] ASSR2 (passé normalement en 3e) ?
-
--	Options et emploi du temps
-    - [ ] Vérification des options
-    > En cas d’erreur, barrer en rouge et modifier sur document papier puis le déposer dans le casier du coordinateur de niveau pour vérification et validation.
-    > Pas de changement accepté par rapport aux choix faits à l’inscription.
-    - [ ] Distribution EDT individuels élèves + Informer les élèves concernés par des anomalies (liste définie en réunion PP)
-
-
+***
 ## Le 05/09
 
 - [ ] Sur les heures de permanence, inscription impérative en Perm0 puis possibilité de :
@@ -79,7 +61,35 @@ LISTE DES DOCUMENTS A PREVOIR
 
 - [ ] Projets, objectif ["Fête de la science"](./fete_de_la_science) début octobre... -> ==**Initier** un dépot pour [votre projet sur GitHub](./github)==
 
+***
+## Le 02/09
 
-Les 09 et 12/09
+- Accueil
+- [ ] Présentation du professeur principal-référent
+- Rappels
+    -	[ ] Self
+       -	Pas de vérification des régimes pour l’instant
+       -	Explications : EXT, DP4 (pas le mercredi), DP5, INT, BOX. Changement possible au + vite (fin semaine B2). Rappel : engagement pris pour toute l’année.
+       -	Distribution cartes de self + consignes.
+      > Remarques : Possibilité de déjeuner au self ou à la cafétéria. Inscription possible pour les externes avant 9h à l’entrée de la Perm0.
+    - [ ] Distribution et présentation du carnet de correspondance à compléter et à conserver sur soi toute l’année.
+    - [ ] [Lecture du règlement intérieur](https://www.ecmorlaix.fr/uploads/2018/09/reglement-interieur-rentree-2022-lycee.pdf){target=_blank}
+    > La zone fumeurs n’est accessible qu'aux récréations.  
+    > Ce document est accessible, comme d'autres, depuis la page [informations-pratiques du site du lycée](https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/informations-pratiques/){target=_blank}
 
-- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==En appliquant une [démarche agile](./fete_de_la_science/#demarche), **Initier** une TODO liste et se répartir les tâches==
+    - [ ] Présentation des ressources informatiques : ENT, Drive, Ecole Directe
+    > Précision sur Ecole Directe ou panneau d’affichage pour les modifications d’EDT. Nécessité de consulter panneau d’affichage quotidiennement.  
+    > Identifiant école directe : les élèves utilisent leur propre identifiant et pas le compte “famille”.  
+    > Certificat de scolarité accessible sur Ecole Directe.
+
+    - [ ] ASSR2 (passé normalement en 3e) ?
+
+-	Options et emploi du temps
+    - [ ] Vérification des options
+    > En cas d’erreur, barrer en rouge et modifier sur document papier puis le déposer dans le casier du coordinateur de niveau pour vérification et validation.
+    > Pas de changement accepté par rapport aux choix faits à l’inscription.
+    - [ ] Distribution EDT individuels élèves + Informer les élèves concernés par des anomalies (liste définie en réunion PP)
+
+
+
+
