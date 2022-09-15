@@ -35,7 +35,7 @@ Cet outil permet aux candidats de découvrir l'ensemble des formations proposée
 
 <figure>
 <video width="560" height="315" controls>
-  <source src="./assets/Parcoursup.mp4" type="video/mp4">  
+  <source src="../assets/Parcoursup.mp4" type="video/mp4">  
 Your browser does not support the video tag.
 </video>
 </figure>
