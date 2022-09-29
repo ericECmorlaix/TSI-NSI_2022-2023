@@ -56,7 +56,9 @@ Your browser does not support the video tag.
 
 
 
-## Padlet orientation :
+## Sites du CDI :
+
+- Accès direct à [l'onglet parcours avenir](https://cdi-lycee.ecmorlaix.fr/orientation/){target=_blank} ;
 
 - Accès direct [Padlet orientation terminale](https://padlet.com/cdinddmporsmeur/orientation_terminale_2020){target=_blank} ;
 
@@ -67,7 +69,18 @@ Your browser does not support the video tag.
 </figure>
 
 
-## 
+## Forum en ligne
+
+Ce dispositif hebdomadaire vous permet de découvrir en visio une filière post bac. Les visios auront lieu de 18h30 à 19h jusqu'à fin janvier.
+
+![Forum_En_Ligne.gif](./assets/ForumEnLigne.gif){.center}
+
+[Télécharger la présentation du dispositif et du programme d'octobre en pdf](./pdf/Forum_En_Ligne.pdf){target=_blank .md-button}
+
+> 1. Chaque mercredi (ou jeudi) vous recevrez un mail vous invitant à la prochaine visio avec un lien pour vous y inscrire si vous le souhaitez.
+> 2. Le lundi matin de la visio, les inscrits recevront une invitation TEAMS.
+
+
 
 ## Salon Azimut Brest :
 

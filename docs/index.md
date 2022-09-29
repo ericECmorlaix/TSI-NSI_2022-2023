@@ -2,6 +2,23 @@
 [![PJ](images/undraw_Team_re_0bfe.svg "# TEAM - TSI-NSI_2022-2023"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "@ecmorlaix.fr"){: align=right width=10%}](mailto:@ecmorlaix.fr){target=_blank}Ce site s'adresse au groupe d'élèves de terminale SI et NSI du lycée Notre Dame du Mur de MORLAIX pour la vie de classe, l'orientation et les projets...
 
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
+***
+## Le 30/09 (1h30 de préparations + 0h30 pour les revues)
+
+- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==Point d'étape oral de 5 minutes sur chaque stand : ce qu'on présentera, ce que l'on fera faire aux visiteurs, ce qui est prêt, ce qui reste à préparer...==
+
+***
+## Le 29/09 (1h)
+
+- Vie de Classe : [Lettre aux élèves de terminale](./pdf/Lettre_aux_terminales.pdf){target=_blank}, questions diverses...
+- Poursuite du travail sur l'[orientation](./orientation) : [Site du CDI onglet parcours avenir](./orientation#sites-du-cdi) et [Forum en ligne](./orientation#forum-en-ligne) ;
+- PIX : se [connecter](https://pix.fr/){target=_blank} puis faire la [campagne de rentrée](https://app.pix.fr/campagnes/GKLEHW391){target=_blank} ;
+- ...
+***
+## Du 16 au 26/09 (2h + 1h)x2
+
+- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==En appliquant une [démarche agile](./fete_de_la_science/#demarche), **développer** une médiation scientifique s'apuyant sur les sujets de vos projets==
+
 
 ***
 ## Le 15/09 (1h)

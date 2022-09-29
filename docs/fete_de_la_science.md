@@ -65,6 +65,7 @@ Développer petit à petit de façon modulaire, par fonctionnalité...
 
 - [https://github.com/poppy-project/poppy-ergo-jr](https://github.com/poppy-project/poppy-ergo-jr){target=_blank}
 
-### Onshape
+### Futur bras 6 axes
 
-- [Cinématique bras 6 axes](https://www.youtube.com/playlist?list=PLzeGpFCqKToadNUiOH9iaOi9PymUhzb-M){target=_blank}
+- [Onshape - Cinématique bras 6 axes](https://www.youtube.com/playlist?list=PLzeGpFCqKToadNUiOH9iaOi9PymUhzb-M){target=_blank}
+- [Le site du bras 6 axes](https://mkx-3d.github.io/bras-6-axes/){target=_blank}
