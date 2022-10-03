@@ -3,6 +3,17 @@
 
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 ***
+<!-- ## Le 13/10 (1h)
+
+- Vie de Classe : questions diverses...
+- Poursuite du travail sur l'[orientation](./orientation) :
+    - lire [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11) -->
+
+
+## Les 3 et 7/10 (1h + 2h)
+
+- Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==Fin des préparatifs, installation le 7/10 à partir de 16h20==
+
 ## Le 30/09 (1h30 de préparations + 0h30 pour les revues)
 
 - Projets, objectif ["Fête de la science"](./fete_de_la_science) le lundi 10 octobre... -> ==Point d'étape oral de 5 minutes sur chaque stand : ce qu'on présentera, ce que l'on fera faire aux visiteurs, ce qui est prêt, ce qui reste à préparer...==
