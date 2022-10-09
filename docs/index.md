@@ -9,6 +9,9 @@
 - Poursuite du travail sur l'[orientation](./orientation) :
     - lire [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11) -->
 
+## Le 10/10, jour J
+
+- ["Fête de la science"](./fete_de_la_science) dans l'atrium de 9h à 16h20...
 
 ## Les 3 et 7/10 (1h + 2h)
 
