@@ -3,11 +3,13 @@
 
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 ***
-<!-- ## Le 13/10 (1h)
+## Le 13/10 (1h)
 
-- Vie de Classe : questions diverses...
+- Vie de Classe :
+    - [campagne de rentrée](https://app.pix.fr/campagnes/GKLEHW391){target=_blank} [PIX](https://pix.fr/){target=_blank} ?
+    - questions diverses...
 - Poursuite du travail sur l'[orientation](./orientation) :
-    - lire [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11) -->
+    - lire [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11)
 
 ## Le 10/10, jour J
 
