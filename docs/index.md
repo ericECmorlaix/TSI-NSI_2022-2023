@@ -3,6 +3,19 @@
 
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 ***
+## Les 14 et 17/10
+
+- Bilan de la ["Fête de la science"](./fete_de_la_science)...
+- Découverte de l'application multiplateforme [Obsidian](https://obsidian.md/){target=_blank}
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/WRkvdtm7ybw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL8bMNHR1PpLgkSs5-Bg6icsdxPGsklzai" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Activités respectives dans chaque spécialités [TSI_2022-2023](https://ericecmorlaix.github.io/TSI_2022-2023/)
+   ou [TNSI_2022-2023](https://ericecmorlaix.github.io/TNSI_2022-2023/) ;
+
+***
 ## Le 13/10 (1h)
 
 - Vie de Classe :
