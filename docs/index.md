@@ -3,7 +3,39 @@
 
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 ***
-## Les 14 et 17/10
+## Le 17/10
+
+- Bilan de la ["Fête de la science"](./fete_de_la_science) : :clap: :clap: :clap: ;
+
+- Découverte de l'application multiplateforme [Obsidian](https://obsidian.md/){target=_blank} -> ==Synchroniser votre classeur déposé sur GitHup avec un coffre d'Obsidian localisé sur votre iPad et y apairer vos fichiers `note.ipynb` avec des `note.md` grace à jupytext dans Carnets== ;
+
+??? resume "Memo de procédure de synchronisation avec GitHub sur iPad"
+
+    Il y a une procédure spécifique pour Mobile (qui doit pouvoir s'appliquer également sur PC) :
+
+    - créer un dépôt sur GitHub (privé ou public) avec un petit README.md (c'est plus pratique) ;
+    - générer une clé d'identification sur GitHub <https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token>
+    - créer un nouveau coffre dans Obsidian ;
+    - installer et activer le plugin "Obsidian Git" <https://github.com/denolehov/obsidian-git> ;
+    - renseigner les champs password/personal access token et username dans la configuration du plugin "Obsidian Git"
+    - puis depuis la palette de commande choisir `Obsidian Git: Clone an existing remote repo` et suivre les instructions...
+
+
+???+ tip "Comment se construire un second cerveau avec Obsidian en mode [Zettelkasten](https://fr.wikipedia.org/wiki/Zettelkasten)"
+
+    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B9BLia6FN4s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/upyTEnzqJwk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+    <center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/beCbmjygkAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+- [Hommage à Samuel PATTY à 9h15](./pdf/documents_commentes_commemoration-2.pdf){target=_blank} ;
+
+- Activités respectives dans chaque spécialités [TSI_2022-2023](https://ericecmorlaix.github.io/TSI_2022-2023/)
+   ou [TNSI_2022-2023](https://ericecmorlaix.github.io/TNSI_2022-2023/) ;
+
+***
+## Le 14/10
 
 - Bilan de la ["Fête de la science"](./fete_de_la_science)...
 - Découverte de l'application multiplateforme [Obsidian](https://obsidian.md/){target=_blank}
