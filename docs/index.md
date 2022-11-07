@@ -3,6 +3,12 @@
 
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 ***
+## Le 07/11
+- Tutoriel de l'application multiplateforme [Obsidian](./Obsidian) ;
+- Activités respectives dans chaque spécialités [TSI_2022-2023](https://ericecmorlaix.github.io/TSI_2022-2023/)
+   ou [TNSI_2022-2023](https://ericecmorlaix.github.io/TNSI_2022-2023/) ;
+   
+***
 ## Le 17/10
 
 - Bilan de la ["Fête de la science"](./fete_de_la_science) : :clap: :clap: :clap: ;
@@ -35,11 +41,7 @@
    ou [TNSI_2022-2023](https://ericecmorlaix.github.io/TNSI_2022-2023/) ;
 
 ***
-## Le 07/11
-- Tutoriel de l'application multiplateforme [Obsidian](./Obsidian) ;
-- Activités respectives dans chaque spécialités [TSI_2022-2023](https://ericecmorlaix.github.io/TSI_2022-2023/)
-   ou [TNSI_2022-2023](https://ericecmorlaix.github.io/TNSI_2022-2023/) ;
-   
+
 ## Le 14/10
 
 - Bilan de la ["Fête de la science"](./fete_de_la_science)...
