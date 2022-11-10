@@ -12,8 +12,11 @@
         - faire la [campagne de rentrée TGT code: `SFVUCW857`](https://app.pix.fr/campagnes/SFVUCW857){target=_blank} ;
         - puis faire la [campagne de récolte de votre profil PIX code `HCTRFS261`](https://app.pix.fr/campagnes/HCTRFS261){target=_blank}.
     - questions diverses...
+- [Journée nationale de lutte contre le harcèlement scolaire](https://m.facebook.com/story.php?story_fbid=pfbid0GzTZtQfeZEL2ZFeFSgGqyeKhMEiHozACS7fEvpQayt3XRCY78gfnv8wEmMMNRtxil&id=100009852780025&sfnsn=scwspmo){target=_blank}
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/gFWq2W0Jly8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
 - Poursuite du travail sur l'[orientation](./orientation) :
-    - lire [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11)
+    
 
 ***
 ## Le 07/11
