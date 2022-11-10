@@ -3,6 +3,19 @@
 
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 ***
+## Le 10/11 (1h)
+
+- Vie de Classe :
+    - Inscription au bac !
+    - Apporter une copie de votre attestation JDC ou recensement URGENT ‼️ 
+    - [PIX](https://pix.fr/){target=_blank} :
+        - faire la [campagne de rentrée TGT code: `SFVUCW857`](https://app.pix.fr/campagnes/SFVUCW857){target=_blank} ;
+        - puis faire la [campagne de récolte de votre profil PIX code `HCTRFS261`](https://app.pix.fr/campagnes/HCTRFS261){target=_blank}.
+    - questions diverses...
+- Poursuite du travail sur l'[orientation](./orientation) :
+    - lire [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11)
+
+***
 ## Le 07/11
 - Tutoriel de l'application multiplateforme [Obsidian](./Obsidian) ;
 - Activités respectives dans chaque spécialités [TSI_2022-2023](https://ericecmorlaix.github.io/TSI_2022-2023/)
@@ -58,7 +71,7 @@
 ## Le 13/10 (1h)
 
 - Vie de Classe :
-    - [campagne de rentrée](https://app.pix.fr/campagnes/GKLEHW391){target=_blank} [PIX](https://pix.fr/){target=_blank} ?
+    - [campagne de rentrée](https://app.pix.fr/campagnes/SFVUCW857){target=_blank} [PIX](https://pix.fr/){target=_blank} ?
     - questions diverses...
 - Poursuite du travail sur l'[orientation](./orientation) :
     - lire [Ces 12 "jobs du futur" qui vont exploser](https://start.lesechos.fr/travailler-mieux/classements/ces-12-jobs-du-futur-qui-vont-exploser-1174984?xtor=CS2-11)
@@ -80,7 +93,7 @@
 
 - Vie de Classe : [Lettre aux élèves de terminale](./pdf/Lettre_aux_terminales.pdf){target=_blank}, questions diverses...
 - Poursuite du travail sur l'[orientation](./orientation) : [Site du CDI onglet parcours avenir](./orientation#sites-du-cdi) et [Forum en ligne](./orientation#forum-en-ligne) ;
-- PIX : se [connecter](https://pix.fr/){target=_blank} puis faire la [campagne de rentrée](https://app.pix.fr/campagnes/GKLEHW391){target=_blank} ;
+- PIX : se [connecter](https://pix.fr/){target=_blank} puis faire la [campagne de rentrée](https://app.pix.fr/campagnes/SFVUCW857){target=_blank} ;
 - ...
 ***
 ## Du 16 au 26/09 (2h + 1h)x2
