@@ -11,7 +11,7 @@
     - questions diverses...
 
 - Poursuite du travail sur l'[orientation](./orientation) : ==**faire** des `note.md` dans [Obsidian](./Obsidian), une par formation, avec des `#tag`, toutes regroupées dans un même dossier de votre coffre.==
-    - nouvelle ressources : [https://ideo.bretagne.bzh/](https://ideo.bretagne.bzh/){target=_blank}
+    - nouvelle ressource : [https://ideo.bretagne.bzh/](https://ideo.bretagne.bzh/){target=_blank}
 
 ***
 ## Le 10/11 (1h)

@@ -105,4 +105,5 @@ En cliquant dessus, vous pouvez accéder à toutes sortes d'informations dont de
 - MOOC orientation : [https://www.mooc-orientation.fr/](https://www.mooc-orientation.fr/){target=_blank} ;
 - [TROUVE TA VOIE AVEC THOTIS !](https://thotismedia.com/){target=_blank} ;
 - [MesServices.etudiant.gouv.fr](https://www.messervices.etudiant.gouv.fr/envole/) ;
+- [https://ideo.bretagne.bzh/](https://ideo.bretagne.bzh/){target=_blank} ;
 - ...
