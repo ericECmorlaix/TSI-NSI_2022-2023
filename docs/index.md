@@ -4,6 +4,20 @@
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 
 ***
+## Le 08/12 (1h)
+
+- Vie de Classe :
+
+    - questions diverses...
+    - Retours partiels de conseils de classes...
+
+- Poursuite du travail sur l'[orientation](./orientation) : ==**faire** des `note.md` dans [Obsidian](./Obsidian), une par formation, des métadonnées (Nom, Lieu, Lien, Attendus, Processus, Dates, Coût, Débouchés, Opinion, Ordre, Questions... ) et des `#tag`, toutes regroupées dans un même dossier de votre coffre.==
+
+    - Salon [SupArmor](https://www.suparmor.fr/){target=_blank} ce WE à St Brieuc ;
+    - Ouverture du catalogue Parcoursup 2023 le 20/12 ;
+    - Les sessions instat Fac à Brest se poursuivent tous les mercredis entre 14h et 16h : voir les [formations présentées](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank} ;
+
+***
 ## Le 24/11 (1h)
 
 - Vie de Classe :

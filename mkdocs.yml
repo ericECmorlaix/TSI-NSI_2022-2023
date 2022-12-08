@@ -22,11 +22,11 @@ docs_dir: docs
 # Structure du menu principal de navigation, chemins relatifs au dossier docs_dir
 nav: 
   - Accueil : index.md
-  - Vie de classe :
-    - Orientation : orientation.md
+  - Orientation : orientation.md
   - Projets :
       - Village des sciences : fete_de_la_science.md
       - Mon projet sur GitHub : github.md
+      - Obsidian : Obsidian.md
   - TSI_2022-2023 : https://ericecmorlaix.github.io/TSI_2022-2023/
   - TNSI_2022-2023 : https://ericecmorlaix.github.io/TNSI_2022-2023/
 
