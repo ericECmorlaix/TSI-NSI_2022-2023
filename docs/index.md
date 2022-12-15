@@ -4,6 +4,26 @@
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
 
 ***
+## Le 16/12 (2h)
+
+- Eléments d'analyse transactionnelle :
+
+<center><iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/RxEhu8hWmXI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
+
+![Adulte-Parent-Enfant](./images/AT-Image.png){.center width=60%}
+
+- Poursuite du travail sur l'[orientation](./orientation) : ==**faire** des `note.md` dans [Obsidian](./Obsidian), une par formation, des métadonnées (Nom, Lieu, Lien, Attendus, Processus, Dates, Coût, Débouchés, Opinion, Ordre, Questions... ) et des `#tag`, toutes regroupées dans un même dossier de votre coffre pour faire des requêtes avec Dataview==
+
+    - Du nouveau bientôt sur [Parcoursup 2023](./pdf/Parcoursup_2023-lettre_d'information_n%C2%B01-20221214.pdf) ;
+    - Les sessions instat Fac à Brest se poursuivent tous les mercredis entre 14h et 16h : voir les [formations présentées](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank} ;
+    - Les immersions en prépa à [Kérichen](./pdf/MINISTAGES_CPGE_KERICHEN-Lettre_aux_PROFESSEURS_PRINCIPAUX-min.pdf){target=_blank} et à [Lorient](https://www.lycee-lesage.fr/Formation/journees-dimmersion-en-cpge){target=_blank}
+
+- Vers plus de [sobriété numérique](https://ec-morlaix.github.io/info/sobre/){target=_blank} : répondre au questionnaire du [Défi du grand ménage numérique](https://forms.office.com/Pages/ResponsePage.aspx?id=15R5OuUcb0Km4-7gYW4qbK8if53guTRDmm-NDtFB1m9UQUpKN1I5V0JVVDQyTTFLSjVKNDJITEFDTiQlQCN0PWcu){target=_blank}...
+
+- Activités respectives dans chaque spécialités [TSI_2022-2023](https://ericecmorlaix.github.io/TSI_2022-2023/)
+   ou [TNSI_2022-2023](https://ericecmorlaix.github.io/TNSI_2022-2023/) ;
+
+***
 ## Le 08/12 (1h)
 
 - Vie de Classe :
