@@ -6,9 +6,9 @@
 ## Le 05/01 (1h)
 
 - Poursuite du travail sur l'[orientation](./orientation) : 
-    - **faire** des `note.md` dans [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}, une par formation, des métadonnées (Nom, Lieu, Lien, Attendus, Processus, Dates, Coût, Débouchés, Opinion, Ordre, Questions... ) et des `#tag`, toutes regroupées dans un même dossier de votre coffre ;
-    - **préparer** un [diaporama de présentation](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/6a-Exports/#diaporama-basique){target=_blank} ;
-    - **extraire** les informations utiles à l'aide de [requêtes partagées Dataview](https://md.picasoft.net/Ccpn8zieTQGD_4fGL8mV7Q){target=_blank} ;    
+    - **faire** des `note.md` dans [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}, une par formation, en y incluant des métadonnées (Nom, Lieu, Lien, Attendus, Processus, Dates, Coût, Débouchés, Opinion, Ordre, Questions... ) et des `#tag`, toutes regroupées dans un même dossier de votre coffre ;
+    - **préparer** un [diaporama de présentation](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/6a-Exports/#diaporama-basique){target=_blank} de votre projet d'orientation à plus ou moins long terme et des plans A, B, C, ..., que vous envisagez pour l'atteindre ;
+    - **extraire** les informations utiles à l'aide de [requêtes partagées Dataview](https://md.picasoft.net/Ccpn8zieTQGD_4fGL8mV7Q){target=_blank} pour pouvoir répondre à des questions particulières ;    
 
 ***
 ## Le 16/12 (2h)
@@ -19,7 +19,7 @@
 
 ![Adulte-Parent-Enfant](./images/AT-Image.png){.center width=60%}
 
-- Poursuite du travail sur l'[orientation](./orientation) : ==**faire** des `note.md` dans [Obsidian](./Obsidian), une par formation, des métadonnées (Nom, Lieu, Lien, Attendus, Processus, Dates, Coût, Débouchés, Opinion, Ordre, Questions... ) et des `#tag`, toutes regroupées dans un même dossier de votre coffre pour faire des requêtes avec Dataview==
+- Poursuite du travail sur l'[orientation](./orientation) : ==**faire** des `note.md` dans [Obsidian](./Obsidian), une par formation, en y incluant des métadonnées (Nom, Lieu, Lien, Attendus, Processus, Dates, Coût, Débouchés, Opinion, Ordre, Questions... ) et des `#tag`, toutes regroupées dans un même dossier de votre coffre pour faire des requêtes avec Dataview==
 
     - Du nouveau bientôt sur [Parcoursup 2023](./pdf/Parcoursup_2023-lettre_d'information_n%C2%B01-20221214.pdf) ;
     - Les sessions instat Fac à Brest se poursuivent tous les mercredis entre 14h et 16h : voir les [formations présentées](https://www.univ-brest.fr/cap-avenir/menu/Bloc-Lyceen/Insta_-Fac){target=_blank} ;
