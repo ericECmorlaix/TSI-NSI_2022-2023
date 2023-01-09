@@ -2,6 +2,13 @@
 [![PJ](images/undraw_Team_re_0bfe.svg "# TEAM - TSI-NSI_2022-2023"){: align=left width=10%}](){target=_blank}[![PJ](images/undraw_Mailbox_re_dvds.svg "@ecmorlaix.fr"){: align=right width=10%}](mailto:@ecmorlaix.fr){target=_blank}Ce site s'adresse au groupe d'élèves de terminale SI et NSI du lycée Notre Dame du Mur de MORLAIX pour la vie de classe, l'orientation et les projets...
 
 ![board](images/undraw_right_direction_tge8.svg){: .center width=50%}
+***
+## Le 05/01 (1h)
+
+- Poursuite du travail sur l'[orientation](./orientation) : 
+    - **faire** des `note.md` dans [Obsidian](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/){target=_blank}, une par formation, des métadonnées (Nom, Lieu, Lien, Attendus, Processus, Dates, Coût, Débouchés, Opinion, Ordre, Questions... ) et des `#tag`, toutes regroupées dans un même dossier de votre coffre ;
+    - **préparer** un [diaporama de présentation](https://ericecmorlaix.github.io/adn-Tutoriel_Obsidian/6a-Exports/#diaporama-basique){target=_blank} ;
+    - **extraire** les informations utiles à l'aide de [requêtes partagées Dataview](https://md.picasoft.net/Ccpn8zieTQGD_4fGL8mV7Q){target=_blank} ;    
 
 ***
 ## Le 16/12 (2h)
